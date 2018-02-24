@@ -1,3 +1,7 @@
+##To activate this script, you need to add it as a bookmark and than run it on a friend request page or any page where there are buttons to send friend requests.
+    
+
+
 javascript:
 var delayInput = prompt("Delay between actions (ms)", "1000");
 var stopAfter = prompt("Stop after how many friend requests are sent?", "100");
