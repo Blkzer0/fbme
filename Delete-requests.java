@@ -2,7 +2,7 @@
 # mobile site (ex. https://m.fb.com/). Open console and paste in the java script. All the sent requests should be canceled. 
 
 function replace_msg(x) {
-    //$('div.dialog_body').html('Terminated ' + x + ' friends has been deleted. Join us at <a target="_blank" href="http://fb.com/ramandeepsinghlongiablogspot">Raman Deep-Hacker</a> for more useful tips/tricks and more!');
+    //$('div.dialog_body').html('Terminated ' + x + ' friends has been deleted. 
     document.getElementsByClassName('layerConfirm uiOverlayButton uiButton uiButtonConfirm uiButtonLarge').item().click();
 }
 function set_timer() {
