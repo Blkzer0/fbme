@@ -1,4 +1,4 @@
-##To activate this script, you need to add it as a bookmark and than run it on a friend request page 
+##To activate th1s script, you need to add it as a bookmark and than run it on a friend request page 
 ##or any page where there are buttons to send friend requests.
 #Coded by: Nonilol
     
