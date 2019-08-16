@@ -1,0 +1,8 @@
+# pop this code into the browser console. Clears up alot of requests- 0-300 people before triggering fb countermeasures. 
+
+var confirmBtns = document.getElementsByTagName('button');
+for (var i = 0; i < confirmBtns.length; i++) {
+    if (confirmBtns[i].innerHTML == "Confirm") {
+        confirmBtns[i].click();
+    }
+}
